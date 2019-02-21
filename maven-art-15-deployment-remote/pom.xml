@@ -86,6 +86,8 @@
                     <tagNameFormat>
                         @{groupId}-@{project.artifactId}-@{project.version}
                     </tagNameFormat>
+					<localCheckout>false</localCheckout>
+					<pushChanges>false</pushChanges>
                     <providerImplementations>
                         <git>jgit</git>
                     </providerImplementations>
