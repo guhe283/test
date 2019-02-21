@@ -6,12 +6,12 @@
     <artifactId>deployment-remote</artifactId>
     <version>1.0.4-SNAPSHOT</version>
 
-    <scm>
-        <developerConnection>scm:git:https://github.com/alexander-redmann-teaching/maven-art.git</developerConnection>
-        <connection>scm:git:https://alexander-redmann-teaching/maven-art.git</connection>
-        <url>https://github.com/alexander-redmann-teaching/maven-art/tree/15-deployment-remote</url>
-      <tag>HEAD</tag>
-  </scm>
+   <scm>
+        <developerConnection>scm:git:https://github.com/guhe283/myTest.git</developerConnection>
+        <connection>scm:git:https://guhe283/myTest.git</connection>
+        <url>https://github.com/guhe283/myTest.git/tree/14-deployment-local</url>
+        <tag>HEAD</tag>
+    </scm>
 
    <!-- <distributionManagement>
         <repository>
